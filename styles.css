@@ -9,4 +9,10 @@ body {
     color: #fff;
     height: 100%;
     text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#cover #cover-caption {
+    width: 100%;
 }
